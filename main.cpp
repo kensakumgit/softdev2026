@@ -12,4 +12,5 @@ int main(void)
 	cout << "hello from harung0!" << endl;
 	cout << "hello from yasuda-shunki!" << endl;
 	cout << "hello from reiji!" << endl;
+	cout << "hello from terada-git!" << endl
 }
