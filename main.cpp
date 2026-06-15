@@ -10,4 +10,5 @@ int main(void)
 	cout << "hello from yamagata!" << endl;
 	cout << "hello from haru!" << endl;
 	cout << "hello from harung0!" << endl;
+	cout << "hello from yasuda-shunki!" << endl;
 }
