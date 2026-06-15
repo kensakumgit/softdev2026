@@ -14,6 +14,7 @@ int main(void)
     cout << "hello from reiji!" << endl;
     cout << "hello from terada-git!" << endl;
     cout << "hello from rikupuni!" << endl;
-    cout << "hello from kenmori2!"" << endl;
+    cout << "hello from kenmori2!" << endl;
+    cout << "hello from Hotaru-87!" << endl;
     return 0;
 }
