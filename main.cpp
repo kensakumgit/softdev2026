@@ -7,4 +7,5 @@ int main(void)
 	cout << "hello from Suzuha!" << endl;
 	cout << "hello from Ryo!" << endl;
 	cout << "hello from yamagata!" << endl;
+	cout << "hello from haru!" << endl;
 }
