@@ -18,5 +18,6 @@ int main(void)
     cout << "hello from Hotaru-87!" << endl;
     cout << "hello from kwaka88!" << endl;
     cout << "hello from Yuya!" << endl;
+    cout << "hello from shu!" << endl;
     return 0;
 }
