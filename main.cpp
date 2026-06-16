@@ -22,5 +22,6 @@ int main(void)
     cout << "hello from Sakuto!" << endl;
     cout << "hello from Rento!" << endl;
     cout << "hello from hibiki!" << endl;
+    cout << "hello from watakennn" << endl!;
     return 0;
 }
