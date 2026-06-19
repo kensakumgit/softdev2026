@@ -28,5 +28,6 @@ int main(void)
     cout << "hello from kaito!" << endl;
     cout << "hello from ohyama!" << endl;
     cout << "hello from Soya!" << endl;	
+    cout << "hello from keita!" << endl;
     return 0;
 }
