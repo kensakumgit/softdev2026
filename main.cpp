@@ -36,5 +36,6 @@ int main(void)
     cout << "hello from keiii0812!" << endl;
     cout << "hello from mk0808ss!" << endl;
     cout << "hello from Toma!" << endl;
+    cout << "hello from ao416!" << endl;
     return 0;
 }
