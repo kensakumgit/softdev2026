@@ -38,5 +38,6 @@ int main(void)
     cout << "hello from Toma!" << endl;
     cout << "hello from ao416!" << endl;
     cout << "hello from CoBaYAsHI-Rn!" << endl;
+    cout << "hello from so! << endl;
     return 0;
 }
