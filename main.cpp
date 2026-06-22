@@ -23,7 +23,7 @@ int main(void)
     cout << "hello from Sakuto!" << endl;
     cout << "hello from Rento!" << endl;
     cout << "hello from hibiki!" << endl;
-    cout << "hello from watakennn" << endl!;
+    cout << "hello from watakennn" << endl;
     cout << "hello from Akuto!" << endl;
     cout << "hello from kaito!" << endl;
     cout << "hello from ohyama!" << endl;
@@ -34,5 +34,11 @@ int main(void)
     cout << "hello from Koki784!" << endl; 
     cout << "hello from 0jotaro!" << endl;
     cout << "hello from maho!" << endl;
+    cout << "hello from keiii0812!" << endl;
+    cout << "hello from mk0808ss!" << endl;
+    cout << "hello from Toma!" << endl;
+    cout << "hello from ao416!" << endl;
+    cout << "hello from CoBaYAsHI-Rn!" << endl;
+    cout << "hello from so!" << endl;
     return 0;
 }
