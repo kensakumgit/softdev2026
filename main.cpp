@@ -40,6 +40,6 @@ int main(void)
     cout << "hello from ao416!" << endl;
     cout << "hello from CoBaYAsHI-Rn!" << endl;
     cout << "hello from so!" << endl;
-    cout << "hell from Ryouma-lab!" << endl;
+    cout << "hello from Ryouma-lab!" << endl;
     return 0;
 }
