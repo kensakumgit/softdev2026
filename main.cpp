@@ -41,5 +41,6 @@ int main(void)
     cout << "hello from CoBaYAsHI-Rn!" << endl;
     cout << "hello from so!" << endl;
     cout << "hell from Ryouma-lab!" << endl;
+    cout << "hello from kambara!" << endl;
     return 0;
 }
