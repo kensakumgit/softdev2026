@@ -43,5 +43,6 @@ int main(void)
     cout << "hello from Ryouma-lab!" << endl;
     cout << "hello from kambara!" << endl;
     cout << "hello from Yuki-4a!" << endl;
+    cout << "hello from Shuhei!" << endl;
     return 0;
 }
