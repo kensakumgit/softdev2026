@@ -40,6 +40,11 @@ int main(void)
     cout << "hello from ao416!" << endl;
     cout << "hello from CoBaYAsHI-Rn!" << endl;
     cout << "hello from so!" << endl;
+<<<<<<< HEAD
     cout << "hello from Ryouma-lab!" << endl;
+=======
+    cout << "hello from Ryouma-lab!" << endl;
+    cout << "hello from kambara!" << endl;
+>>>>>>> 37720b804a684cfb03b86ede2f5c21ccd0516313
     return 0;
 }
